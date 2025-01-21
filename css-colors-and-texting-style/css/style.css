@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(95, 95, 148)
+}
+#p1 {
+    color: rgb(252, 252, 252)
+}
+#p2 {
+    color: aqua;
+    font-weight:bold;
+    font-size: 25px;
+background-color: rgb(58, 50, 69);
+}
+#p3 {
+    color:rgb(126, 220, 126);
+    font-family: cursive;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+#pretty {
+    padding: 50vh 10%;
+
+}
+#s1 {
+    font-weight: bold;
+    color: #008097;
+    font-size: 25px;
+
+}
+#s2 {
+    font-style: italic;
+    letter-spacing: 2px;
+}
+#s3 {
+    background-color:rgb(97, 144, 129)
+}
