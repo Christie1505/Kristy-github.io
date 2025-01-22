@@ -25,13 +25,45 @@
 }
 
 /* Drill 10 - Write your code solution below */
+#d10-a1,
+#d10-a3 {
+    text-decoration: none;
+}
+#d10-s1,
+#d10-s3 {
+    text-decoration: underline;
+}
 
 
 /* Drill 11 - Write your code solution below */
-
+#d11-p1 {
+    font-size: 36px;
+}
 
 /* Drill 12 - Write your code solution below */
-
+#d12-div2 {
+    text-align: right;
+}
+#d12-div3 {
+    text-align: left;
+}
+#d12-div4 {
+    text-align: center;
+}
 
 /* Drill 13 - Write your code solution below */
+#d13-div2 {
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+}
 
+#d13-div3 {
+    text-align: center;
+    font-size: 48px;
+}
+#d13-div4 {
+    text-align: center;
+    font-size: 24px;
+    font-style: italic;
+}
