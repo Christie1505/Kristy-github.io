@@ -14,7 +14,8 @@
     margin-top: 24px;
 }
 /* Drill 4 - Write your code solution below */
-#d4-div2, #d4-div3 {
+#d4-div2,
+#d4-div3 {
     margin-top: 24px;
 }
 /* Drill 5 - Write your code solution below */
@@ -37,7 +38,8 @@
     }
     #d5-h1-1 {
         margin: -20px -0px -5px;
-} */        
+} 
+*/        
 /* Drill 6 - Write your code solution below */
 .d6-div {
     margin-right: 48px;
