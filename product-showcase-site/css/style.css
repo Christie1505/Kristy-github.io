@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-color: rgb(224, 149, 182);
+    display: inline-block;
+    margin: 0px;
+    padding: 46px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container, .nav > div {
+    width: 90vw;
+    max-width: 1280px;
+}
