@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+
+}
+body {
+    margin: 0px;
+    font-family: sans-serif;
+    background-color: rgb(56, 52, 48);
+    color: rgb(102, 106, 117);
+    font-stretch: expanded;
+}
+
+#layout {
+    max-width: 800px;
+    margin: 48px auto;
+    text-align: center;
+}
+
+/* Basic Grid Gallery Styles for both Portrait and Landscape */
+.basic-grid-gallery {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 24px;
+    border: 10px solid rgb(110, 110, 119);
+}
+.basic-grid-gallery img {
+    width: 100%;
+}
