@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+    text-align: center;
+    background-color: rgb(192, 213, 219);
+    color: rgb(0, 0, 0);
+    text-size-adjust: 123px;
+    text-decoration: none;
+
+}
+.single-column-page, img {
+    object-fit: cover;
+    width: 1000px;
+    height: 100%;
+}
+.layout, img {
+    object-fit: cover;
+    width: 90px;
+    height: 100px;
+}
+.superbowl1 {
+    width: 450px;
+    height: 230px;
+
+}
+@media screen and (max-width: 768px) {
+     h1 {
+        font-size: 26px;
+        padding: 50px 10px;
+        text-align: center;
+    }
+    h4 {
+        font-size: 20px;
+    }
+}
+.btn1 {
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    padding: 5px 50px;
+    text-decoration: none;
+}
+.btn2 {
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    padding: 5px 50px;
+    text-decoration: none;
+}
+
